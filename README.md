@@ -1,2 +1,2 @@
 status line
-feel good just getting started
+fixed conflict, happy
